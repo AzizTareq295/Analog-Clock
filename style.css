@@ -132,3 +132,9 @@ body{
 .num-11 p{
     transform: rotate(-330deg)
 }
+.num-12{
+    transform: rotate(0deg)
+}
+.num-12 p{
+    transform: rotate(0deg)
+}
